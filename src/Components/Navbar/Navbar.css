@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
 .navbar {
     display: flex;
     justify-content: space-around;
@@ -77,4 +83,6 @@
     margin-left: -55px;
     border-radius: 11px;
     font-size: 14px;
+    background: red;
+    color: white;
 }
